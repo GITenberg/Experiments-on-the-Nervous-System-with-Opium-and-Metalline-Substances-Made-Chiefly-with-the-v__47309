@@ -1,10 +1,16 @@
 _repo: Experiments-on-the-Nervous-System-with-Opium-and-Metalline-Substances-Made-Chiefly-with-the-v__47309
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47309-h/images/cover.jpg
 creator:
   author:
     agent_name: Monro, Alexander
     gutenberg_agent_id: '44249'
     url: http://www.gutenberg.org/2009/agents/44249
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47309#Experiments-on-the-Nervous-System-with-Opium-and-Metalline-Substances-Made-Chiefly-with-the-v_
 gutenberg_issued: '2014-11-07'
 gutenberg_type: Text
 identifiers:
